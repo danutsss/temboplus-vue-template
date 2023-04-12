@@ -1,0 +1,6 @@
+# Modules folder (contains all the modules).
+/lib
+
+# Assets (images, fonts, etc.) folder.
+/assets/img
+/assets/fonts
