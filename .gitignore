@@ -1,13 +1,3 @@
-# Modules folder (contains all the modules).
-/bootstrap-5/lib
-
-# Node modules folder (contains all the node modules).
-/bootstrap-5/node_modules
-
-# Assets (images, fonts, etc.) folder.
-/bootstrap-5/assets/img
-/bootstrap-5/assets/fonts
-
 # Logs
 logs
 *.log
